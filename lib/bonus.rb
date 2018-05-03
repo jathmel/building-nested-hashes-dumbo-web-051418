@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  
+  new_status = epic_tragedy[:montague]
   
   
 
