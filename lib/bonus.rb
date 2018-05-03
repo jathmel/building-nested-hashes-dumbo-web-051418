@@ -25,7 +25,7 @@ def bonus
   change_status = romeo_status[:hero]
   change_status[:status] = "dead"
   
-  juliet_status = epic_tragedy[:cantulet]
+  juliet_status = epic_tragedy[:capulet]
   status = juliet_status[:heroine]
   status[:status] = "dead"
   
