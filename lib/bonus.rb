@@ -26,8 +26,8 @@ def bonus
   change_status[:status] = "dead"
   
   juliet_status = epic_tragedy[:cantulet]
-  change_status = juliet_status[:heroine]
-  change_status[:status] = "dead"
+  status = juliet_status[:heroine]
+  status[:status] = "dead"
   
   
   
