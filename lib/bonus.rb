@@ -21,9 +21,15 @@ def bonus
   }
 
   #code your solution here:
-  new_status = epic_tragedy[:montague]
-  change_status = new_status[:hero]
+  romeo_status = epic_tragedy[:montague]
+  change_status = romeo_status[:hero]
   change_status[:status] = "dead"
+  
+  juliet_status = epic_tragedy[:cantulet]
+  change_status = juliet_status[:heroine]
+  change_status[:status] = "dead"
+  
+  
   
   
 
